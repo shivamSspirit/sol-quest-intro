@@ -31,55 +31,55 @@ These are the simple steps through which users can easily learn and build a web3
 
 First, create a Solana wallet. For simplicity, we'll create a Phantom wallet using the Chrome Phantom Wallet extension.
 
-![createwallet](/ChallangeViews/quiz/createwallet.jpeg)
+![createwallet](/stepsassets/quiz/createwallet.jpeg)
 
 Next, go to wallet settings and click on Developer setting 
 
-![developersettings](/ChallangeViews/quiz/setdev.jpeg)
+![developersettings](/stepsassets/quiz/setdev.jpeg)
 
 Next, toggle the Testnet mode 
 
-![setdevnet](/ChallangeViews/quiz/toggletest.jpeg)
+![setdevnet](/stepsassets/quiz/toggletest.jpeg)
 
 Now that your wallet is in devnet mode, you need some devnet faucet tokens to fund your wallet and interact with SolQuest.
 
 Now, go to https://faucet.solana.com/, then copy and paste your newly created wallet address. Choose an amount and fund your wallet with some devnet SOL.
 
-![solfaucet](/ChallangeViews/quiz/faucet.jpeg)
+![solfaucet](/stepsassets/quiz/faucet.jpeg)
 
 Now you’re all set to build with SolQuest.
 
 In SolQuest, click on the Connect Wallet button and sign the transaction.
 
-![connectsolquest](/ChallangeViews/quiz/connect.jpeg)
+![connectsolquest](/stepsassets/quiz/connect.jpeg)
 
 After connecting your wallet, the Connect Wallet button will look like this.
 
-![portfoliotoggle](/ChallangeViews/quiz/porttoggle.jpeg)
+![portfoliotoggle](/stepsassets/quiz/porttoggle.jpeg)
 
 Click on the Portfolio link to go to the portfolio page. This page contains your minted profile.
 
-![portfoliopage](/ChallangeViews/quiz/potland.jpeg)
+![portfoliopage](/stepsassets/quiz/potland.jpeg)
 
 Here, you'll see your minted NFT, your profile address, your completed challenges, and your role.
 
 By clicking on the Update Social button, you can update your social handles like GitHub, Twitter, Telegram, etc.
 
-![socilaform](/ChallangeViews/quiz/socform.jpeg)
+![socilaform](/stepsassets/quiz/socform.jpeg)
 
 Now go to any challenge or quest. In this quest, we provide instructions to follow to build a dApp, as well as the dApp’s Vercel link and GitHub repository for a better learning experience.
 
-![Resources](/ChallangeViews/quiz/resources.jpeg)
+![Resources](/stepsassets/quiz/resources.jpeg)
 
 After following the instructions to build the dApp, you will have your deployed Solana program address and the deployed Vercel link of the client UI (dApp). Using both, you can submit your challenge.
 
 To do this, click on the Submit Challenge button, add the program ID and dApp link, and sign the transaction.
 
-![submitform](/ChallangeViews/quiz/submitchallange.jpeg)
+![submitform](/stepsassets/quiz/submitchallange.jpeg)
 
 After submitting a quest, you will see your submitted quest on your portfolio page.
 
-![submittedquests](/ChallangeViews/quiz/submitesquest.jpeg)
+![submittedquests](/stepsassets/quiz/submitesquest.jpeg)
 
 I hope you get it. Now, start building on the fastest and cheapest blockchain in the web3 ecosystem.
 
