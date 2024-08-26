@@ -15,21 +15,21 @@ The quest is about how to build dApps using Solana’s Anchor framework. It prov
 
 The breakdown of on-chain programs is divided into two parts:
 
-understanding of:-
+Understanding of:-
 
-- Instruction handlers aka Rpc endpoints
-- Account creation and validation for instruction handlers
+- [Instruction handlers](https://solana.com/docs/terminology#instruction-handler) aka Rpc endpoints
+- [Account](https://solana.com/docs/terminology#account) creation and validation for instruction handlers
 
 For the client UI, we are using:-
 
-- `npx create-solana-dapp`
-- Solana’s dApp scaffold.
+- [Create-solana-dapp](https://www.npmjs.com/package/create-solana-dapp)
+- [Solana’s dApp scaffold](https://github.com/solana-labs/dapp-scaffold)
 
-## How Sol Quest works
+# How Sol Quest works
 
 These are the simple steps through which users can easily learn and build a web3 portfolio 
 
-First, create a Solana wallet. For simplicity, we'll create a Phantom wallet using the Chrome Phantom Wallet extension.
+First, you'll need to create a Solana wallet. For simplicity, we'll create a [Phantom](https://chromewebstore.google.com/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa?hl=en) wallet using the Chrome Phantom Wallet extension.
 
 ![createwallet](/stepsassets/quiz/createwallet.jpeg)
 
